@@ -1,0 +1,9 @@
+1. shell types
+- bourne shell
+2. some command line interface
+- echo cp mv cat 
+3. vi editor
+4. some the package install to server
+5. using service
+path store: /etc/systemd/system/
+path link: /usr/lib/systemd/system/*service-name*.service
